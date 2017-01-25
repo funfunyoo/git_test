@@ -3,4 +3,6 @@
 int main()
 {
     printf("HELLO~ git~~ \n");
+
+    return 0;
 }
